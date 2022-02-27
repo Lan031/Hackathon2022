@@ -1,0 +1,1284 @@
+fileFormatVersion: 2
+guid: 59c69403f7e2e7643ad5c66dc85e1fcf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1983406171052893695
+    second: Tiny Alien and Weapons-Sheet_0
+  - first:
+      213: -170279223912858478
+    second: Tiny Alien and Weapons-Sheet_1
+  - first:
+      213: -6712699394299238012
+    second: Tiny Alien and Weapons-Sheet_2
+  - first:
+      213: 2156729057637527935
+    second: Tiny Alien and Weapons-Sheet_3
+  - first:
+      213: 4607043014133614640
+    second: Tiny Alien and Weapons-Sheet_4
+  - first:
+      213: 2392764085416165513
+    second: Tiny Alien and Weapons-Sheet_5
+  - first:
+      213: 4137474719897033880
+    second: Tiny Alien and Weapons-Sheet_6
+  - first:
+      213: -8174932111041609317
+    second: Tiny Alien and Weapons-Sheet_7
+  - first:
+      213: -7364756956838253805
+    second: Tiny Alien and Weapons-Sheet_8
+  - first:
+      213: 3215212066120452960
+    second: Tiny Alien and Weapons-Sheet_9
+  - first:
+      213: 8495296466160053168
+    second: Tiny Alien and Weapons-Sheet_10
+  - first:
+      213: -1991110731111551637
+    second: Tiny Alien and Weapons-Sheet_11
+  - first:
+      213: -5225928296481756798
+    second: Tiny Alien and Weapons-Sheet_12
+  - first:
+      213: -3730142978826980638
+    second: Tiny Alien and Weapons-Sheet_13
+  - first:
+      213: 1004091550814573279
+    second: Tiny Alien and Weapons-Sheet_14
+  - first:
+      213: 1674758741305944409
+    second: Tiny Alien and Weapons-Sheet_15
+  - first:
+      213: 690484696185220207
+    second: Tiny Alien and Weapons-Sheet_16
+  - first:
+      213: -4659110352125415040
+    second: Tiny Alien and Weapons-Sheet_17
+  - first:
+      213: -2874162111419228608
+    second: Tiny Alien and Weapons-Sheet_18
+  - first:
+      213: 1399060640511658144
+    second: Tiny Alien and Weapons-Sheet_19
+  - first:
+      213: 4585329661639605112
+    second: Tiny Alien and Weapons-Sheet_20
+  - first:
+      213: -5658854905565684255
+    second: Tiny Alien and Weapons-Sheet_21
+  - first:
+      213: -1043765261441555654
+    second: Tiny Alien and Weapons-Sheet_22
+  - first:
+      213: -6328715277956954070
+    second: Tiny Alien and Weapons-Sheet_23
+  - first:
+      213: -4397638644501836298
+    second: Tiny Alien and Weapons-Sheet_24
+  - first:
+      213: 3909004346411824387
+    second: Tiny Alien and Weapons-Sheet_25
+  - first:
+      213: -356739624867446931
+    second: Tiny Alien and Weapons-Sheet_26
+  - first:
+      213: 4105873656175799822
+    second: Tiny Alien and Weapons-Sheet_27
+  - first:
+      213: 8793975125247925542
+    second: Tiny Alien and Weapons-Sheet_28
+  - first:
+      213: -3565177625004135150
+    second: Tiny Alien and Weapons-Sheet_29
+  - first:
+      213: 7022398363721768683
+    second: Tiny Alien and Weapons-Sheet_30
+  - first:
+      213: 7684019523893938291
+    second: Tiny Alien and Weapons-Sheet_31
+  - first:
+      213: -4835206347936096027
+    second: Tiny Alien and Weapons-Sheet_32
+  - first:
+      213: 8044096608528517277
+    second: Tiny Alien and Weapons-Sheet_33
+  - first:
+      213: -9139200203086227669
+    second: Tiny Alien and Weapons-Sheet_34
+  - first:
+      213: -2404523507144986648
+    second: Tiny Alien and Weapons-Sheet_35
+  - first:
+      213: -394378048969712302
+    second: Tiny Alien and Weapons-Sheet_36
+  - first:
+      213: -2983096135148798814
+    second: Tiny Alien and Weapons-Sheet_37
+  - first:
+      213: 2548113749273719447
+    second: Tiny Alien and Weapons-Sheet_38
+  - first:
+      213: -8031214100667851666
+    second: Tiny Alien and Weapons-Sheet_39
+  - first:
+      213: 2594330987500080095
+    second: Tiny Alien and Weapons-Sheet_40
+  - first:
+      213: 7589403488541569608
+    second: Tiny Alien and Weapons-Sheet_41
+  - first:
+      213: -6848242726887066110
+    second: Tiny Alien and Weapons-Sheet_42
+  - first:
+      213: -6292173554117631363
+    second: Tiny Alien and Weapons-Sheet_43
+  - first:
+      213: -882613600352712518
+    second: Tiny Alien and Weapons-Sheet_44
+  - first:
+      213: -695908547445582186
+    second: Tiny Alien and Weapons-Sheet_45
+  - first:
+      213: 5063514629320195928
+    second: Tiny Alien and Weapons-Sheet_46
+  - first:
+      213: 178575462527207620
+    second: Tiny Alien and Weapons-Sheet_47
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tiny Alien and Weapons-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 112
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a131198968974e0800000000000000
+      internalID: -1983406171052893695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Alien and Weapons-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 112
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c7b02b2fb03adf0800000000000000
+      internalID: -170279223912858478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Alien and Weapons-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 112
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48960de5773b7d2a0800000000000000
+      internalID: -6712699394299238012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Alien and Weapons-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 112
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f717f3da6ad3eed10800000000000000
+      internalID: 2156729057637527935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Alien and Weapons-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 105
+        width: 54
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038016256318fef30800000000000000
+      internalID: 4607043014133614640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Alien and Weapons-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 112
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9800b8e124ec43120800000000000000
+      internalID: 2392764085416165513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Alien and Weapons-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 112
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c1f9226534b6930800000000000000
+      internalID: 4137474719897033880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Alien and Weapons-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 112
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b914e62ce8ecc8e80800000000000000
+      internalID: -8174932111041609317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Alien and Weapons-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 112
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ba19261902bc990800000000000000
+      internalID: -7364756956838253805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Alien and Weapons-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 113
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06bc8a6d65abe9c20800000000000000
+      internalID: 3215212066120452960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Alien and Weapons-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 114
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bbe91f302b55e570800000000000000
+      internalID: 8495296466160053168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Alien and Weapons-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6da0a3e6572e54e0800000000000000
+      internalID: -1991110731111551637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Alien and Weapons-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289ea8a07e5c977b0800000000000000
+      internalID: -5225928296481756798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Alien and Weapons-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2b99159bedb3cc0800000000000000
+      internalID: -3730142978826980638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Alien and Weapons-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 112
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2164012ff3fed00800000000000000
+      internalID: 1004091550814573279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Alien and Weapons-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 112
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9596504b330fd3710800000000000000
+      internalID: 1674758741305944409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Alien and Weapons-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 112
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ca6fe3c28159900800000000000000
+      internalID: 690484696185220207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Alien and Weapons-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081383cd1d3875fb0800000000000000
+      internalID: -4659110352125415040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Alien and Weapons-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e58f1a9ccec18d0800000000000000
+      internalID: -2874162111419228608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Alien and Weapons-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a88de07d367a6310800000000000000
+      internalID: 1399060640511658144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Alien and Weapons-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b371c780d52af30800000000000000
+      internalID: 4585329661639605112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Alien and Weapons-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 82
+        width: 54
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1edd74ef175b771b0800000000000000
+      internalID: -5658854905565684255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Alien and Weapons-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 96
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3322ea560dc381f0800000000000000
+      internalID: -1043765261441555654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Alien and Weapons-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28c9c45cf2eb28a0800000000000000
+      internalID: -6328715277956954070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Alien and Weapons-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd00f7d3f278f2c0800000000000000
+      internalID: -4397638644501836298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Alien and Weapons-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 96
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305b5550eb29f3630800000000000000
+      internalID: 3909004346411824387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Alien and Weapons-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 98
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f3876833b9c0bf0800000000000000
+      internalID: -356739624867446931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Alien and Weapons-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 97
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e2ef0265efaf830800000000000000
+      internalID: 4105873656175799822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Alien and Weapons-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d1600b8c97a0a70800000000000000
+      internalID: 8793975125247925542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Alien and Weapons-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 96
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d2574d6d1f58ec0800000000000000
+      internalID: -3565177625004135150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Alien and Weapons-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 96
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee9be40b12947160800000000000000
+      internalID: 7022398363721768683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Alien and Weapons-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 96
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3784dd89b0f13aa60800000000000000
+      internalID: 7684019523893938291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Alien and Weapons-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 96
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e02e8fc175e5ecb0800000000000000
+      internalID: -4835206347936096027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Alien and Weapons-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 85
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98444afe3f52af60800000000000000
+      internalID: 8044096608528517277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Alien and Weapons-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 85
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b271edb36d90b2180800000000000000
+      internalID: -9139200203086227669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Alien and Weapons-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 67
+        width: 10
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8efeb862c9a61aed0800000000000000
+      internalID: -2404523507144986648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Alien and Weapons-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 51
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25dd2f30143e68af0800000000000000
+      internalID: -394378048969712302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Alien and Weapons-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 55
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac7d95ced9e996d0800000000000000
+      internalID: -2983096135148798814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Alien and Weapons-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 45
+        width: 49
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792bfb854f7bc5320800000000000000
+      internalID: 2548113749273719447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Alien and Weapons-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 22
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c959e93556b8090800000000000000
+      internalID: -8031214100667851666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Alien and Weapons-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 12
+        width: 49
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb0bbba94ae00420800000000000000
+      internalID: 2594330987500080095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Alien and Weapons-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 67
+        width: 9
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84271af234af25960800000000000000
+      internalID: 7589403488541569608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Alien and Weapons-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 68
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2067e30068726f0a0800000000000000
+      internalID: -6848242726887066110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Alien and Weapons-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 73
+        width: 29
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7226b96d75bda8a0800000000000000
+      internalID: -6292173554117631363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Alien and Weapons-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 77
+        width: 29
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab84c055b9350c3f0800000000000000
+      internalID: -882613600352712518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Alien and Weapons-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 45
+        width: 49
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6961959fcd2a756f0800000000000000
+      internalID: -695908547445582186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Alien and Weapons-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 12
+        width: 49
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85fbf9b4ab7354640800000000000000
+      internalID: 5063514629320195928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Alien and Weapons-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c80981ef6d6a7200800000000000000
+      internalID: 178575462527207620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

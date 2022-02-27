@@ -17,3 +17,9 @@ press e on the broken things to fix
 press e on the black orbs to allow the character to escape
 
 to select character when none are spawned press 1 for the scientist 2 for the marine and 3 for the engineer(i think)
+
+
+
+
+The old project is my original idea(all of the scripts are mixed up sorry most of them cross over)
+the new one was made when i realised i didnt have enough time to finish the old one os ive just put both on this
